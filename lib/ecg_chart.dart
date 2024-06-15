@@ -1,7 +1,5 @@
+/// A package for drawing ECG.
 library ecg_chart;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'package:ecg_chart/src/ecg_chart.dart';
+export 'package:ecg_chart/src/theme/ecg_chart_theme.dart';

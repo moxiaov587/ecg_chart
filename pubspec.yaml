@@ -1,5 +1,5 @@
 name: ecg_chart
-description: "A new Flutter package project."
+description: "A package for drawing ECG."
 version: 0.0.1
 homepage:
 
@@ -8,6 +8,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
+  collection: ^1.18.0
   flutter:
     sdk: flutter
 
